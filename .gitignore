@@ -1,0 +1,11 @@
+volumes
+.env
+
+
+shared/dumps/mongo/*
+shared/dumps/postgres/*
+!shared/.gitkeep
+
+docker-compose.yml
+docker-compose-prod-db.yml
+docker-compose-hml-db.yml

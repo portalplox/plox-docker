@@ -1,0 +1,1 @@
+FROM bitnami/rabbitmq:3.8.3
