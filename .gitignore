@@ -2,8 +2,8 @@ volumes
 .env
 
 
-shared/dumps/mongo/*
-shared/dumps/postgres/*
+shared/dumps/mongo/*.tar*
+shared/dumps/postgres/*.sql*
 !shared/.gitkeep
 
 docker-compose.yml
