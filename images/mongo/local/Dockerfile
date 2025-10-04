@@ -1,1 +1,1 @@
-FROM bitnami/mongodb:7.0.9
+FROM mongo:7.0.9
